@@ -1,3 +1,8 @@
 Hi my name is Sajal
+<<<<<<< HEAD
 This conflict was made at 5:19PM
 Above time changed from 15 to 19
+=======
+This conflict was made at 5:24PM
+Above time was changed from 15 to 24
+>>>>>>> 0bc94cacceddcafa02b98ef24030845505d15a20
